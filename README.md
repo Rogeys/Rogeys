@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Jogos Digitais** e agora est
 - ⚡ **Curiosidade:** Sou um verdadeiro amante de hardware e PC. Nas horas vagas, meu hobby é maratonar animes e séries, ou ficar imerso jogando.
 
 ### 🛠️ Tecnologias e Ferramentas:
-- **Estudando:** [Java ou Kotlin]
+- **Estudando:** [Java e Kotlin]
 
 ### 📫 Como me encontrar:
 - **E-mail:** [rogeys@protonmail.com]
